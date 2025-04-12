@@ -58,12 +58,21 @@ This project highlights that while **GDP growth is important**, it's only part o
 
 ---
 
-## 🚀 Next Steps
+## 🔍 Further Exploration
 
-- Add more predictors (e.g., education, healthcare spending)
-- Try non-linear models or country clusters
-- Create a dashboard using Plotly or Streamlit
+While this project focused on GDP and life expectancy, future investigations could explore **economic expansion** in a deeper, more meaningful way.
+
+> Economic growth does not always lead to shared prosperity.
+
+As a former political science student, I’m especially interested in how GDP growth relates to:
+- **Middle-class development** and upward mobility
+- **Income inequality** (e.g., Gini index trends)
+- **GDP per capita** as a more personal measure of wealth
+- **Human Development Index (HDI)** as a holistic quality-of-life metric
+
+Future projects may compare which countries have not only grown economically, but also improved equity, opportunity, and wellbeing for their populations.
+
 
 ---
 
-👩‍💻 _First analysis shipped. Next up: mastering NLP, one dataset at a time 🌿💻_
+👩‍💻 _Second analysis shipped. Next up: mastering NLP, one dataset at a time 🌿💻_
